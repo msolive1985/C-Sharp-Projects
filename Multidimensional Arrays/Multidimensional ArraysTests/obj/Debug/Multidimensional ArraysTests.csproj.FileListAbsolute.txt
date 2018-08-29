@@ -1,0 +1,9 @@
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\bin\Debug\Multidimensional ArraysTests.dll
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\bin\Debug\Multidimensional ArraysTests.pdb
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\bin\Debug\Multidimensional Arrays.exe
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\bin\Debug\Multidimensional Arrays.pdb
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\obj\Debug\Multidimensional ArraysTests.csprojResolveAssemblyReference.cache
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\obj\Debug\Multidimensional ArraysTests.dll
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional ArraysTests\obj\Debug\Multidimensional ArraysTests.pdb

@@ -1,0 +1,6 @@
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe.config
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.pdb
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.csprojResolveAssemblyReference.cache
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.exe
+c:\users\mso_2\documents\visual studio 2015\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.pdb
