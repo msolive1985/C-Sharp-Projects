@@ -61,5 +61,6 @@
   <ItemGroup>
     <Build Include="AirparkUsers.sql" />
     <Build Include="ErrorLog.sql" />
+    <Build Include="AllTheProcedures.sql" />
   </ItemGroup>
 </Project>
