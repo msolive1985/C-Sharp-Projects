@@ -1,0 +1,4 @@
+C:\Users\mso_2\Documents\Visual Studio 2015\Projects\CRUD WebApp\CRUD\PROP\bin\Debug\PROP.dll
+C:\Users\mso_2\Documents\Visual Studio 2015\Projects\CRUD WebApp\CRUD\PROP\bin\Debug\PROP.pdb
+C:\Users\mso_2\Documents\Visual Studio 2015\Projects\CRUD WebApp\CRUD\PROP\obj\Debug\PROP.dll
+C:\Users\mso_2\Documents\Visual Studio 2015\Projects\CRUD WebApp\CRUD\PROP\obj\Debug\PROP.pdb
